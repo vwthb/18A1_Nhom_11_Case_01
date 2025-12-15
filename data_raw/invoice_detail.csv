@@ -1,0 +1,121 @@
+invoice_id,product_name,quantity,unit_price
+INV1016,Ban mi,5,20000vnd
+INV1044,Kem danh rang, 2 ,15000
+INV1012,Nuoc ngot,4,12000
+INV1037,Kem danh rang,1,18000
+INV1003,Sua tuoi, 2 , 30000 
+INV1058,Dau an,3,12000
+INV1032,Sua tuoi,3,12000
+INV1038,Sua tuoi,4,20000vnd
+INV1007,Dau an,4, 30000 
+INV1038,Sua tuoi,2,20000vnd
+INV1042,Dau an,-1,18000
+INV1013,Kem danh rang,-1,15000
+INV1016,Ban mi,3,18000
+INV1029,Nuoc ngot,2,12000
+INV1029,Dau an,2,12000
+INV1034,Mi goi,5,15000
+INV1059,Nuoc ngot,2,15000
+INV1023,Nuoc ngot,3,20000vnd
+INV1053,Dau an,5, 30000 
+INV1051,Kem danh rang,1, 30000 
+INV1019,Kem danh rang,2,15000
+INV1016,Sua tuoi,2, 30000 
+INV1009,Nuoc ngot,5, 30000 
+INV1013,Kem danh rang,-1,15000
+INV1043,Kem danh rang,5, 30000 
+INV1031,Nuoc ngot,1,12000
+INV1040,Ban mi,5,12000
+INV1000,Nuoc ngot,3,18000
+INV1010,Kem danh rang, 2 , 30000 
+INV1045,Ban mi,1,12000
+INV1004,Kem danh rang,3, 30000 
+INV1002,Nuoc ngot,3,20000vnd
+INV1008,Sua tuoi,5,18000
+INV1057,Sua tuoi,-1,15000
+INV1043,Mi goi,2,18000
+INV1049,Dau an,3a, 30000 
+INV1047,Mi goi,4,15000
+INV1051,Mi goi,3a,12000
+INV1011,Kem danh rang,-1,20000vnd
+INV1051,Kem danh rang,4,18000
+INV1010,Kem danh rang,2,20000vnd
+INV1055,Sua tuoi, 2 ,15000
+INV1012,Ban mi,-1,18000
+INV1052,Mi goi,4,12000
+INV1042,Mi goi,3a,18000
+INV1017,Sua tuoi,5,18000
+INV1041,Dau an,3a, 30000 
+INV1021,Sua tuoi,2,18000
+INV1011,Dau an,5,12000
+INV1006,Dau an,3a,18000
+INV1046,Nuoc ngot,3a, 30000 
+INV1032,Sua tuoi,3a, 30000 
+INV1012,Nuoc ngot,1,20000vnd
+INV1000,Dau an,4,18000
+INV1027,Sua tuoi,-1, 30000 
+INV1020,Kem danh rang,2,18000
+INV1032,Nuoc ngot,3a,18000
+INV1025,Kem danh rang,5, 30000 
+INV1008,Mi goi,3a,20000vnd
+INV1043,Kem danh rang,3, 30000 
+INV1036,Nuoc ngot,3a, 30000 
+INV1053,Sua tuoi,5,18000
+INV1013,Ban mi,-1,20000vnd
+INV1028,Ban mi,4, 30000 
+INV1030,Kem danh rang,3,12000
+INV1018,Dau an,-1,12000
+INV1052,Mi goi,5,15000
+INV1051,Mi goi,3,12000
+INV1002,Mi goi, 2 , 30000 
+INV1054,Sua tuoi, 2 ,20000vnd
+INV1056,Kem danh rang,4,20000vnd
+INV1031,Ban mi,4,15000
+INV1041,Kem danh rang,1,12000
+INV1049,Ban mi,4,15000
+INV1051,Kem danh rang, 2 ,12000
+INV1035,Mi goi,2,20000vnd
+INV1008,Ban mi,-1,20000vnd
+INV1039,Kem danh rang,3a, 30000 
+INV1028,Mi goi, 2 ,20000vnd
+INV1016,Mi goi,5, 30000 
+INV1031,Kem danh rang,4,18000
+INV1028,Sua tuoi,5,15000
+INV1017,Nuoc ngot,-1, 30000 
+INV1005,Mi goi,3,15000
+INV1024,Kem danh rang,3,15000
+INV1004,Ban mi,3a,18000
+INV1034,Ban mi,3a,12000
+INV1013,Ban mi,3a, 30000 
+INV1044,Sua tuoi,3a,20000vnd
+INV1000,Nuoc ngot,5,20000vnd
+INV1054,Ban mi,4,20000vnd
+INV1014,Nuoc ngot,3a,20000vnd
+INV1001,Ban mi,-1,20000vnd
+INV1046,Mi goi, 2 ,15000
+INV1039,Dau an,1,20000vnd
+INV1037,Dau an,1,12000
+INV1041,Ban mi,3,20000vnd
+INV1011,Sua tuoi,5,20000vnd
+INV1020,Mi goi, 2 ,18000
+INV1021,Ban mi,5,20000vnd
+INV1016,Sua tuoi, 2 ,12000
+INV1047,Dau an,1,18000
+INV1014,Kem danh rang,2,12000
+INV1048,Sua tuoi,4,15000
+INV1053,Sua tuoi,3,15000
+INV1008,Ban mi,2, 30000 
+INV1013,Ban mi,5,18000
+INV1010,Dau an,2,15000
+INV1019,Sua tuoi,1,18000
+INV1036,Kem danh rang,3a,20000vnd
+INV1045,Mi goi,2, 30000 
+INV1044,Kem danh rang,4,12000
+INV1044,Nuoc ngot,2, 30000 
+INV1050,Sua tuoi,-1, 30000 
+INV1027,Kem danh rang,-1,12000
+INV1032,Kem danh rang,-1,12000
+INV1054,Ban mi, 2 ,12000
+INV1027,Nuoc ngot, 2 ,15000
+INV1027,Mi goi,5, 30000 
+INV1051,Dau an, 2 ,20000vnd

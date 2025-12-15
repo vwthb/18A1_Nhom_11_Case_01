@@ -1,0 +1,26 @@
+customer_id,full_name,region,dob
+C100,Tran Thi  B,Bắc,
+C101,Pham   Thi D,Trung,
+C102,Vu   Van     I,Bắc,
+C103,Nguyen Van A,Bắc,2007-09-02
+C104,Tran   Thi   K,Bắc,
+C105,Vu   Van     I,Bắc,2011-06-08
+C106,Hoang Van E,Bắc,
+C107,Ngo    Van    G,Nam,1994-08-29
+C108,Bui Thi F,Bắc,1989-05-04
+C109,Bui Thi F,Nam,
+C110,Nguyen Van A,Không xác định,1990-08-08
+C111,Ngo    Van    G,Bắc,
+C112,Tran   Thi   K,Nam,
+C113,Tran Thi  B,Bắc,
+C114,Hoang Van E,Bắc,
+C115,Tran Thi  B,Bắc,2013-07-08
+C116,Bui Thi F,Trung,1994-05-26
+C117,Hoang Van E,Không xác định,
+C118,Tran Thi  B,Nam,
+C119,Pham   Thi D,Trung,1997-02-09
+C120,Vu   Van     I,Trung,
+C121,Nguyen Van A,Trung,
+C122,Bui Thi F,Bắc,1994-06-19
+C123,Tran   Thi   K,Không xác định,2014-05-27
+C124,Do Thi H,Bắc,

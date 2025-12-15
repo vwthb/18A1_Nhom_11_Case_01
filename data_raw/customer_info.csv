@@ -1,0 +1,26 @@
+customer_id,full_name,region,dob
+C100,trAn thi  B,Bắc,1995-12-27
+C101,pham   thi d,Trung,2015-05-11
+C102,vu   van     i,Bắc,1986-06-05
+C103,Nguyen van A,Bắc,02/09/2007
+C104,   tran   thi   k ,Bắc,2017-02-13
+C105,vu   van     i,bac,08/06/2011
+C106,hoang van e,Bắc,1992-02-29
+C107,ngo    van    g,Nam,29/08/1994
+C108,  bui thi f ,Bắc,04/05/1989
+C109,  bui thi f ,Nam,2021-03-16
+C110,Nguyen van A,,08/08/1990
+C111,ngo    van    g,Bắc,2022-03-16
+C112,   tran   thi   k ,Nam,2016-08-09
+C113,trAn thi  B,Bắc,2019-09-05
+C114,hoang van e,Bắc,2023-11-14
+C115,trAn thi  B,bac,08/07/2013
+C116,  bui thi f ,Trung,26/05/1994
+C117,hoang van e,,2014-01-26
+C118,trAn thi  B,nam,2008-12-17
+C119,pham   thi d,Trung,09/02/1997
+C120,vu   van     i,Trung,2022-10-23
+C121,Nguyen van A,Trung,2021-02-10
+C122,  bui thi f ,bac,19/06/1994
+C123,   tran   thi   k ,,27/05/2014
+C124,do thi h,bac,2013-11-02
